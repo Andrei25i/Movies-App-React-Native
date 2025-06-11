@@ -42,6 +42,12 @@ npx expo
 
 
 ## Screenshots
+![1000076700](https://github.com/user-attachments/assets/8b0b61ee-f1da-4d8e-aace-42958942b0e5)
+![1000076701](https://github.com/user-attachments/assets/164da899-d519-43f6-a0f6-923c75e3567a)
+![1000076699](https://github.com/user-attachments/assets/d38b580f-8501-4290-babb-2bc7ad50b1b4)
+![1000076702](https://github.com/user-attachments/assets/5b2470c1-b211-4d05-a623-9f575e2fc1be)
+![1000076698](https://github.com/user-attachments/assets/29dd7741-bd59-48bd-964f-62fa76bd933e)
+![1000076703](https://github.com/user-attachments/assets/d4b70882-955c-46e3-901e-79e174ef1196)
 
 
 ## License
