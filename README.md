@@ -42,12 +42,16 @@ npx expo
 
 
 ## Screenshots
-![1000076700](https://github.com/user-attachments/assets/8b0b61ee-f1da-4d8e-aace-42958942b0e5)
-![1000076701](https://github.com/user-attachments/assets/164da899-d519-43f6-a0f6-923c75e3567a)
-![1000076699](https://github.com/user-attachments/assets/d38b580f-8501-4290-babb-2bc7ad50b1b4)
-![1000076702](https://github.com/user-attachments/assets/5b2470c1-b211-4d05-a623-9f575e2fc1be)
-![1000076698](https://github.com/user-attachments/assets/29dd7741-bd59-48bd-964f-62fa76bd933e)
-![1000076703](https://github.com/user-attachments/assets/d4b70882-955c-46e3-901e-79e174ef1196)
+![image](https://github.com/user-attachments/assets/46e60a8a-c00f-4681-90f9-d0b497e2bcba)
+![image](https://github.com/user-attachments/assets/6b5e1b3f-6b86-4936-8f74-64c06ed60860)
+![image](https://github.com/user-attachments/assets/c1e0e7d1-2a22-48b3-b7f4-9799156a0c2b)
+![image](https://github.com/user-attachments/assets/1db3d890-14f1-469d-8905-f96848c6fe10)
+![image](https://github.com/user-attachments/assets/d6221f64-75c4-4067-8e68-b138010af914)
+![image](https://github.com/user-attachments/assets/b1dd43e2-fd20-4cac-a01b-1ad0ae53f4ee)
+
+
+## Video
+
 
 
 ## License
