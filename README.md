@@ -1,50 +1,50 @@
-# Welcome to your Expo app 👋
+# Movies App
+This is my first React app I created as a personal project to learn some of the basics of React.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Features
 
-## Get started
+🔍 Movies or Shows Search
 
-1. Install dependencies
+➕ Add movies and shows to a watchlist
 
-   ```bash
-   npm install
-   ```
+## Technologies Used
+⚛️ [React Native](https://reactnative.dev/) 
 
-2. Start the app
+🎥 [The Movie Database API](https://developer.themoviedb.org/docs/getting-started) for movies and shows searching  
 
-   ```bash
-   npx expo start
-   ```
+## Requirements
+1. [Node.js](https://nodejs.org/en)
+2. [The Movie Database API Key](https://developer.themoviedb.org/docs/getting-started)
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## Installation
+1. Clone the repository
 
 ```bash
-npm run reset-project
+git clone https://github.com/Andrei25i/Movies-App.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+2. Open a terminal in the root of the project and run
+```bash
+npm install
+```
 
-## Learn more
+3. Insert the API Key in the .env file
+```bash
+API_KEY = "THE_MOVIE_DATABASE_API_KEY_HERE"
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+## Usage
+1. To start the app, run the command:
+```bash
+npx expo
+```
+2. Access the localhost address of the project.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+## Screenshots
 
-Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## License
+This is a personal project created for learning and practice purposes. 
+
+No explicit license is provided.
