@@ -1,5 +1,5 @@
 # Movies App
-This is my first React app I created as a personal project to learn some of the basics of React.
+This is my first React Native app I created as a personal project to learn some of the basics of React Native.
 
 ## Features
 
