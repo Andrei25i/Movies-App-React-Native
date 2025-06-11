@@ -51,7 +51,7 @@ npx expo
 
 
 ## Video
-[Demo Video](https://github.com/user-attachments/assets/48f53b08-3b0e-4bbb-818a-bcc635972f3d)
+[Demo Video](https://github.com/user-attachments/assets/08605df6-1592-4f64-bcaf-687f4cd0ed03)
 
 
 ## License
