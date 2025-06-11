@@ -15,6 +15,7 @@ This is my first React Native app I created as a personal project to learn some 
 ## Requirements
 1. [Node.js](https://nodejs.org/en)
 2. [The Movie Database API Key](https://developer.themoviedb.org/docs/getting-started)
+3. Expo Go installed on the mobile phone
 
 ## Installation
 1. Clone the repository
