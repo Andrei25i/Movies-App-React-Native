@@ -38,7 +38,7 @@ API_KEY = "THE_MOVIE_DATABASE_API_KEY_HERE"
 ```bash
 npx expo
 ```
-2. Access the localhost address of the project.
+2. Scan the QR code with Expo Go
 
 
 ## Screenshots
