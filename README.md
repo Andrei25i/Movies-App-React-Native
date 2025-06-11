@@ -20,7 +20,7 @@ This is my first React Native app I created as a personal project to learn some 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Andrei25i/Movies-App.git
+git clone https://github.com/Andrei25i/Movies-App-React-Native.git
 ```
 
 2. Open a terminal in the root of the project and run
